@@ -1,13 +1,13 @@
-# Hi 👋, I'm Owais Edroos  
+# Hi , I'm Owais Edroos  
 
-🎓 **Computer Engineering Undergraduate**  
-💡 Passionate about **AI & ML**, **software development**, and **technology-driven real-world solutions**
+ **Computer Engineering Undergraduate**  
+ Passionate about **AI & ML**, **software development**, and **technology-driven real-world solutions**
 
 I enjoy building practical applications that combine clean design with solid engineering — from **Android apps** to **full-stack web platforms** and **AI-powered systems**.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 Pursuing **B.E. in Computer Engineering** (Honors in Artificial Intelligence & Machine Learning)  
 - 💻 Strong foundation in **software development & real-world application design**  
