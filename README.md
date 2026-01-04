@@ -92,4 +92,4 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
 
 ---
 
- ⭐️**If you like my work, consider starring my repositories!**
+ ⭐️ **If you like my work, consider starring my repositories!**
