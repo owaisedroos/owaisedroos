@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Owais Edroos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Computer+Engineering+Undergraduate;Honors+in+AI+%26+ML;Android+%7C+Full-Stack+%7C+AI+Projects;Turning+Ideas+Into+Real-World+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Computer+Engineering+Undergraduate;Android+%7C+Full-Stack+%7C+AI+Projects;Turning+Ideas+Into+Real-World+Apps" />
 </p>
 
 
@@ -10,9 +10,9 @@
 ##  About Me
 
  **Computer Engineering Undergraduate (Honors in AI & ML)**  
- Passionate about **AI & ML**, **software development**, and **technology-driven real-world solutions**
+ Passionate about AI & ML, software development, and technology-driven real-world solutions
 
-I enjoy building **clean, scalable, and user-focused applications** — from **Android apps** to **full-stack web platforms** and **data-driven systems**.
+I enjoy building clean, scalable, and user-focused applications, from Android apps to full-stack web platforms and data-driven systems.
 
 📍 Mumbai, India  
 
@@ -21,7 +21,7 @@ I enjoy building **clean, scalable, and user-focused applications** — from **A
 ##  Featured Projects (Live & Demo)
 
 ###  Gamiflix — Game Review Website
-> *A community-driven platform for discovering, reviewing, and rating video games.*
+> A community-driven platform for discovering, reviewing, and rating video games.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/00000000/gamiflix-demo.gif" width="700"/>
