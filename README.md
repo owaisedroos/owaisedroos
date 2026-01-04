@@ -1,83 +1,85 @@
-# Hi , I'm Owais Edroos  
+<h1 align="center">Hi 👋, I'm Owais Edroos</h1>
 
- **Computer Engineering Undergraduate**  
- Passionate about **AI & ML**, **software development**, and **technology-driven real-world solutions**
-
-I enjoy building practical applications that combine clean design with solid engineering — from **Android apps** to **full-stack web platforms** and **AI-powered systems**.
-
----
-
-##  About Me
-
--  Pursuing **B.E. in Computer Engineering** (Honors in Artificial Intelligence & Machine Learning)  
--  Strong foundation in **software development & real-world application design**  
--  Interested in **AI/ML, Android Development, and Full-Stack Systems**  
--  Experienced in **data handling, visualization, and scalable architectures**  
--  Based in **Mumbai, India**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;Honors+in+AI+%26+ML;Android+%7C+Full-Stack+%7C+AI+Projects;Building+Real-World+Tech+Solutions" />
+</p>
 
 ---
 
-##  Featured Projects
+## 👨‍💻 About Me
 
-###  **Gamiflix — Game Review Website**
-A community-driven platform for browsing, reviewing, and rating video games.
+🎓 **Computer Engineering Undergraduate (Honors in AI & ML)**  
+💡 Passionate about **AI & ML**, **software development**, and **technology-driven real-world solutions**
 
-**Tech Stack:**  
-`HTML` `CSS` `JavaScript` `Firebase`
+I enjoy building **clean, scalable, and practical applications** — from **Android apps** to **full-stack web platforms** and **data-driven systems**.
 
-**Highlights:**
-- Responsive UI for seamless browsing across devices  
-- Game detail pages with ratings, reviews, and structured scoring  
-- Community-focused design with dynamic content rendering  
-
- **Live Website:** [https://gamiflix.netlify.app](https://gamiflix.netlify.app)  
- **Repository:** https://github.com/owaisedroos/Gamiflix
+📍 Mumbai, India
 
 ---
 
-###  **XpenseEase — Budget Tracking Android App**
-An Android application for managing personal finances and shared expenses.
+## 🚀 Featured Projects
 
-**Tech Stack:**  
-`Kotlin` `Jetpack Compose` `Room` `MVVM`
+<p align="center">
 
-**Highlights:**
-- Track income, expenses, and overall balance  
-- Interactive graphs & pie-chart visualizations  
-- Splitwise-style shared expenses and event-level budgeting  
+<a href="https://github.com/owaisedroos/Gamiflix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owaisedroos&repo=Gamiflix&theme=tokyonight" />
+</a>
 
- **Repository:** https://github.com/owaisedroos/XpenseEase
+<a href="https://github.com/owaisedroos/XpenseEase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owaisedroos&repo=XpenseEase&theme=tokyonight" />
+</a>
 
----
-
-##  Tech Stack & Tools
-
-###  Programming & Web
-`Kotlin` `Python` `C`  
-`HTML` `CSS` `JavaScript` `SQL`
-
-### Frameworks & Backend
-`Android Studio` `Jetpack Compose` `Room` `MVVM`  
-`Firebase` `MongoDB` `REST APIs`
-
-###  Tools
-`Git` `GitHub`
+</p>
 
 ---
 
-## 📊 GitHub Focus
-- Clean, readable, and maintainable code  
-- Real-world problem solving  
-- Strong emphasis on **architecture & usability**  
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,c,html,css,js,sql" />
+</p>
+
+### 📱 Mobile & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mongodb" />
+</p>
+
+### ⚙️ Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
-## 🌐 Let’s Connect
+## 📊 GitHub Stats
 
-- 📧 **Email:** owaisedroos@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/owaisedroos  
-- 🧑‍💻 **GitHub:** https://github.com/owaisedroos  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=owaisedroos&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaisedroos&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *If you find my projects interesting, feel free to star the repositories!*  
+## 📜 Certifications
+
+- 🧠 Introduction to Natural Language Processing (NLP) — Great Learning  
+- 📱 Android 14 & Kotlin Development Masterclass — Udemy  
+- 🐍 Python for Data Science — IBM Cognitive Class  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:owaisedroos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/owaisedroos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/owaisedroos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
