@@ -18,7 +18,7 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
 
 ---
 
-##  Featured Projects (Live & Demo)
+##  Projects 
 
 ###  Gamiflix — Game Review Website
  > *A community-driven platform for discovering, reviewing, and rating video games.*
