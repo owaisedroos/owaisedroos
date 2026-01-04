@@ -9,11 +9,11 @@ I enjoy building practical applications that combine clean design with solid eng
 
 ##  About Me
 
-- 🎓 Pursuing **B.E. in Computer Engineering** (Honors in Artificial Intelligence & Machine Learning)  
-- 💻 Strong foundation in **software development & real-world application design**  
-- 🤖 Interested in **AI/ML, Android Development, and Full-Stack Systems**  
-- 📊 Experienced in **data handling, visualization, and scalable architectures**  
-- 📍 Based in **Mumbai, India**
+-  Pursuing **B.E. in Computer Engineering** (Honors in Artificial Intelligence & Machine Learning)  
+-  Strong foundation in **software development & real-world application design**  
+-  Interested in **AI/ML, Android Development, and Full-Stack Systems**  
+-  Experienced in **data handling, visualization, and scalable architectures**  
+-  Based in **Mumbai, India**
 
 ---
 
