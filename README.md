@@ -42,7 +42,7 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
 > *An Android app catered towards students to track personal finances, shared expenses, and events.*
 
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/c1415b37-c6f9-444c-836c-6da4d613bae5)" width="350"/>
+  <img src="https://github.com/user-attachments/assets/c1415b37-c6f9-444c-836c-6da4d613bae5" width="350"/>
 </p>
 
 **Tech Stack:** `Kotlin` `Jetpack Compose` `Room` `MVVM`
