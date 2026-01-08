@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Owais Edroos</h1>
+![xpeseease](https://github.com/user-attachments/assets/b42b0fa6-fd53-49ce-a6dc-2c48ec44f4fe)<h1 align="center">Hi , I'm Owais Edroos</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Computer+Engineering+Undergraduate;Android+%7C+Full-Stack+%7C+AI+Projects;Turning+Ideas+Into+Real-World+Apps" />
@@ -42,7 +42,7 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
 > *An Android app catered towards students to track personal finances, shared expenses, and events.*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/xpensee-demo.gif" width="350"/>
+  <img src="xpenseease.gif" width="350"/>
 </p>
 
 **Tech Stack:** `Kotlin` `Jetpack Compose` `Room` `MVVM`
