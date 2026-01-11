@@ -24,7 +24,7 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
  > *A community-driven platform for discovering, reviewing, and rating video games.*
 
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/b78dc7d6-32f6-430b-ab93-50a151db4e19)" width="700"/>
+  <img src="https://github.com/user-attachments/assets/b78dc7d6-32f6-430b-ab93-50a151db4e19" width="700"/>
 </p>
 
 **Tech Stack:** `HTML` `CSS` `JavaScript` `Firebase`
