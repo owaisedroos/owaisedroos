@@ -24,7 +24,7 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
  > *A community-driven platform for discovering, reviewing, and rating video games.*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/gamiflix-demo.gif" width="700"/>
+  <img src="https://github.com/user-attachments/assets/0fd6bbce-6663-492a-8fe5-8a5aef3656f3" width="700"/>
 </p>
 
 **Tech Stack:** `HTML` `CSS` `JavaScript` `Firebase`
