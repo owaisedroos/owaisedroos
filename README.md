@@ -62,7 +62,7 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
   <img src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" width="350"/>
 </p>
 
-**Tech Stack:** `Flutter` `Dart` `Geolocator` `OpenStreetMap` `Kotlin`
+**Tech Stack:** `Flutter` `Dart` `Geolocator` `OpenStreetMap` 
 
 - Automatic phone silence using GPS geofencing  
 - Real-time zone detection with smart notifications  
@@ -77,7 +77,7 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
 
 ###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,c,html,css,js,sql,dart" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,c,html,css,js,dart,sql" />
 </p>
 
 ###  Frameworks & Backend
