@@ -77,12 +77,12 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
 
 ###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,c,html,css,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,c,html,css,js,sql,dart" />
 </p>
 
 ###  Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mongodb,flutter" />
 </p>
 
 ###  Tools
