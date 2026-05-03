@@ -55,6 +55,24 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
 
 ---
 
+###  SilentZone — GPS Based Silent Zone Tracker
+> *A GPS-based mobile app that automatically silences your phone in sensitive areas.*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" width="350"/>
+</p>
+
+**Tech Stack:** `Flutter` `Dart` `Geolocator` `OpenStreetMap` `Kotlin`
+
+- Automatic phone silence using GPS geofencing  
+- Real-time zone detection with smart notifications  
+- Custom silent zones with map interaction  
+- Native Android integration for ringer control  
+
+📁 **Repo:** https://github.com/owaisedroos/SilentZone
+
+---
+
 ##  Tech Stack & Tools
 
 ###  Languages
