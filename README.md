@@ -77,7 +77,7 @@ I enjoy building clean, scalable, and user-focused applications, from Android ap
 
 ###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,c,html,css,js,dart,sql" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,c,html,css,js,dart" />
 </p>
 
 ###  Frameworks & Backend
